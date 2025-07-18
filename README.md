@@ -59,7 +59,7 @@ I was awarded the official certificate of completion upon successfully submittin
 
 ---
 
-## 🙏 Acknowledgement
+## Acknowledgement
 
 Thanks to **RD INFRO TECHNOLOGY** for providing a platform to work on real-world datasets and apply machine learning principles in practice. This internship has strengthened my confidence in building and explaining machine learning projects from scratch.
 
